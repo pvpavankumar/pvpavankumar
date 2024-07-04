@@ -3,7 +3,7 @@
 ## 🚀 About Me
 I'm a passionate MERN Stack Developer with a certification in GraphQL. I specialize in building robust and scalable web applications.
 
-### 🔧 Tech Stack
+## 🔧 Tech Stack
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/> <!-- React -->
   <img src="https://img.icons8.com/color/48/000000/next.png"/> <!-- Next.js -->
   <img src="https://img.icons8.com/color/48/000000/html-5.png"/> <!-- HTML5 -->
