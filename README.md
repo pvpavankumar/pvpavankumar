@@ -25,7 +25,7 @@ I'm a passionate MERN Stack Developer with a certification in GraphQL. I special
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pvpavankumar&layout=compact&title_color=ffffff&text_color=daf7dc&bg_color=151515" alt="Top Languages">
 </p>
 
-Check out my LeetCode profile [here](https://leetcode.com/pavankumarpv/).
+![LeetCode Stats](https://leetcode-badge-showcase.herokuapp.com/api/?username=pavankumarpv)
 
 ## 📫 Contact Me
 - **Email:** pasumarthi.kumar@gmail.com
